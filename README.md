@@ -11,7 +11,7 @@ Youtube : GUNAWAN ID
 
 ## CARA INSTALL DAN MENJALANKAN TOOL
       $ pkg install php
-      $ git clone 
+      $ git clone https://github.com/GUNAWAN18ID/unfriend-facebook.git
       $ cd 
       $ php unfriend.php
 
